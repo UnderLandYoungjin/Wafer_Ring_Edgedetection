@@ -1,3 +1,10 @@
+
+
+
+
+
+https://github.com/user-attachments/assets/d80097e7-7476-49f3-8cab-19febb9e13c1
+
 ```python
 # realtime_ring_modbus_plc_camera1.py
 # USB 카메라 1번으로 금색 링을 검출하고 RS-485 Modbus RTU로 PLC D영역에 데이터를 쓰는 프로그램입니다.
